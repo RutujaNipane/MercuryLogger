@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99659" started-at="2019-04-20T09:55:30Z" finished-at="2019-04-20T09:57:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99659" started-at="2019-04-20T09:55:30Z" finished-at="2019-04-20T09:57:10Z">
+      <class name="com.model.MercuryLogger.MercuryLoggerTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="openBrowser" is-config="true" duration-ms="8005" started-at="2019-04-20T02:55:22Z" finished-at="2019-04-20T02:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationURL()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="enterApplicationURL" is-config="true" duration-ms="12187" started-at="2019-04-20T02:55:30Z" finished-at="2019-04-20T02:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationURL -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="maximizeBrowser" is-config="true" duration-ms="1270" started-at="2019-04-20T02:55:43Z" finished-at="2019-04-20T02:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="getAllCookies" is-config="true" duration-ms="119" started-at="2019-04-20T02:55:44Z" finished-at="2019-04-20T02:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithvalidds()[pri:1, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="loginwithvalidds" duration-ms="81616" started-at="2019-04-20T02:55:44Z" finished-at="2019-04-20T02:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="captureScreenshot" is-config="true" duration-ms="852" started-at="2019-04-20T02:57:06Z" finished-at="2019-04-20T02:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="getAllCookies" is-config="true" duration-ms="16" started-at="2019-04-20T02:57:07Z" finished-at="2019-04-20T02:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithinvalidds()[pri:2, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="loginwithinvalidds" duration-ms="2692" started-at="2019-04-20T02:57:07Z" finished-at="2019-04-20T02:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidds -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="captureScreenshot" is-config="true" duration-ms="648" started-at="2019-04-20T02:57:09Z" finished-at="2019-04-20T02:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="deleteAllCookies" is-config="true" duration-ms="125" started-at="2019-04-20T02:57:10Z" finished-at="2019-04-20T02:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="dbConnectionClosed()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="dbConnectionClosed" is-config="true" duration-ms="2" started-at="2019-04-20T02:57:10Z" finished-at="2019-04-20T02:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionClosed -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.model.MercuryLogger.MercuryLoggerTest@3327bd23]" name="closeBrowser" is-config="true" duration-ms="146" started-at="2019-04-20T02:57:10Z" finished-at="2019-04-20T02:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.model.MercuryLogger.MercuryLoggerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+2019-04-20 02:55:30 INFO  MercuryLoggerTest:106 - Chrome browser is opened successfully
+2019-04-20 02:55:43 INFO  MercuryLoggerTest:92 - URL is entered successfully
+2019-04-20 02:55:44 INFO  MercuryLoggerTest:78 - Maximize browser
+2019-04-20 02:57:06 INFO  MercuryLoggerTest:40 - User has successfully login into Mercury Tours application
+2019-04-20 02:57:06 DEBUG MercuryLoggerTest:41 - User has successfully login into Mercury Tours application
+2019-04-20 02:57:09 ERROR MercuryLoggerTest:52 - User error message
+2019-04-20 02:57:10 WARN  MercuryLoggerTest:85 - warning message
+2019-04-20 02:57:10 INFO  MercuryLoggerTest:98 - dbConnection is closed
